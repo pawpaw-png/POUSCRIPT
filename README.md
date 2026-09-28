@@ -1,2 +1,2 @@
-# **Script**
-```loadstring(game:HttpGet(""))()```
+# *Pou Script*
+`loadstring(game:HttpGet(""))()`
