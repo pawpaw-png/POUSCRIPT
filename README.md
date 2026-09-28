@@ -1,1 +1,2 @@
-**POUSCRIPT**
+# **Script**
+```loadstring(game:HttpGet(""))()```
